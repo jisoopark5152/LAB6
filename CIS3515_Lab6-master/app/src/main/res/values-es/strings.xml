@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Selector de color</string>
+    <string-array name="colors">
+        <item>Azul</item>
+        <item>Amarilla</item>
+        <item>Cian</item>
+        <item>Gris</item>
+        <item>Verde</item>
+        <item>Magenta</item>
+        <item>Roja</item>
+        <item>Púrpura</item>
+        <item>Aceituna</item>
+        <item>Armada</item>
+        <item>Verde azulado</item>
+    </string-array>
+</resources>
